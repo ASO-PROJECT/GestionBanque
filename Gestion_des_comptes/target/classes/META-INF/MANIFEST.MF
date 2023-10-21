@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: brigh
+Build-Jdk: 17.0.8.1
+Implementation-Title: Gestion_des_comptes
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.jaiti
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://projects.spring.io/spring-boot/Gestion_des_c
+ omptes/
+Created-By: Maven Integration for Eclipse
+
